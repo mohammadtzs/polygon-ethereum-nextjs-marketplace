@@ -16,7 +16,7 @@ To deploy this project to Gitpod, follow these steps:
 
 2. Import the RPC address given to you by GitPod into your MetaMask wallet
 
-This endpoint will look something like this:
+This endpoint will look something like this
 
 ```
 https://8545-copper-swordtail-j1mvhxv3.ws-eu18.gitpod.io/
